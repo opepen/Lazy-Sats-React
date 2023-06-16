@@ -4,18 +4,18 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 import './style.css'
 import WalletChecker from './views/wallet-checker'
-import Home from './views/home'
+import LazySats from './views/lazy-sats'
 import Submit from './views/submit'
-import Lazy from './views/lazy'
+import Home from './views/home'
 
 const App = () => {
   return (
     <Router>
       <div>
         <Route component={WalletChecker} exact path="/wallet-checker" />
-        <Route component={Home} exact path="/" />
+        <Route component={LazySats} exact path="/lazy-sats" />
         <Route component={Submit} exact path="/submit" />
-        <Route component={Lazy} exact path="/home_old" />
+        <Route component={Home} exact path="/" />
       </div>
     </Router>
   )
