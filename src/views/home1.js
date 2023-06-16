@@ -335,8 +335,7 @@ const Home1 = (props) => {
         <div className="home1-container10">
           <div id="artisthub" className="home1-container11">
             <div className="home1-container12">
-              <h1 className="home1-text25">Unleash your inner artist</h1>
-              <span className="home1-text26">
+              <span className="home1-text25">
                 We enable every member of the community to participate in the
                 collection by giving them the opportunity to create and
                 contribute their own unique traits while earning royalties. Feel
@@ -345,8 +344,8 @@ const Home1 = (props) => {
             </div>
             <div className="home1-container13">
               <div className="home1-artist-hub1">
-                <h1 className="home1-text27">Artist HUB</h1>
-                <span className="home1-text28">
+                <h1 className="home1-text26">Artist HUB</h1>
+                <span className="home1-text27">
                   <span>
                     Welcome to the Lazy Sats Artist HUB, a haven for unleashing
                     your boundless imagination and embracing your inner artist.
@@ -367,8 +366,8 @@ const Home1 = (props) => {
               </div>
               <div className="home1-container14">
                 <div className="home1-download">
-                  <h1 className="home1-text33">Download</h1>
-                  <span className="home1-text34">
+                  <h1 className="home1-text32">Download</h1>
+                  <span className="home1-text33">
                     Download the Lazy Sats demo canvas below and start creating
                   </span>
                   <a
@@ -381,7 +380,7 @@ const Home1 = (props) => {
                   </a>
                 </div>
                 <div className="home1-submit">
-                  <h1 className="home1-text35">
+                  <h1 className="home1-text34">
                     <span>Submit</span>
                     <br></br>
                   </h1>
@@ -437,7 +436,7 @@ const Home1 = (props) => {
                       Submit
                     </button>
                   </form>
-                  <span className="home1-text38">
+                  <span className="home1-text37">
                     Submissions are currently closed. Opening soon!
                   </span>
                 </div>
@@ -458,7 +457,7 @@ const Home1 = (props) => {
                 className="home1-image7"
               />
               <div className="home1-container16">
-                <span className="home1-text39">
+                <span className="home1-text38">
                   <span>
                     Lazy Sats is a collection of 10.000 distinctive and
                     immutable pixel art characters on the Bitcoin blockchain.

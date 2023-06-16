@@ -770,11 +770,6 @@
 }
 .home1-text25 {
   color: #ffffff;
-  font-size: 6em;
-  font-family: Comforter Brush;
-}
-.home1-text26 {
-  color: #ffffff;
   margin-top: 20px;
 }
 .home1-container13 {
@@ -792,11 +787,11 @@
   margin-top: 50px;
   flex-direction: column;
 }
-.home1-text27 {
+.home1-text26 {
   color: #ffffff;
   font-size: 2em;
 }
-.home1-text28 {
+.home1-text27 {
   color: #ffffff;
   padding: 40px;
   box-shadow: 0px 0px 10px 0px #000000;
@@ -820,11 +815,11 @@
   margin-top: 50px;
   flex-direction: column;
 }
-.home1-text33 {
+.home1-text32 {
   color: #ffffff;
   font-size: 2em;
 }
-.home1-text34 {
+.home1-text33 {
   color: #ffffff;
   margin-top: 20px;
   margin-right: 50px;
@@ -856,7 +851,7 @@
   margin-top: 50px;
   flex-direction: column;
 }
-.home1-text35 {
+.home1-text34 {
   color: #ffffff;
   font-size: 2em;
 }
@@ -931,7 +926,7 @@
   box-shadow: 0px 0px 10px 0px #ff7500;
   background-color: transparent;
 }
-.home1-text38 {
+.home1-text37 {
   color: #ff0000;
   margin-top: 20px;
 }
@@ -998,7 +993,7 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.home1-text39 {
+.home1-text38 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -1118,9 +1113,6 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-  .home1-text25 {
-    text-align: center;
-  }
   .home1-hero1 {
     padding-top: 20px;
     padding-left: 10px;
@@ -1133,7 +1125,7 @@
     width: 100%;
     height: 208px;
   }
-  .home1-text39 {
+  .home1-text38 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
