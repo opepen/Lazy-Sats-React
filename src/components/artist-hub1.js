@@ -102,7 +102,7 @@ const ArtistHUB1 = (props) => {
               rel="noreferrer noopener"
               className="artist-hub1-link button"
             >
-              <span className="">
+              <span className="artist-hub1-text23">
                 <span className="">Download</span>
                 <br className=""></br>
               </span>
@@ -112,7 +112,7 @@ const ArtistHUB1 = (props) => {
             <h1 className="artist-hub1-text26">{props.heading3}</h1>
             <span className="artist-hub1-text27">{props.text1}</span>
             <Link to="/submit" className="artist-hub1-navlink button">
-              <span className="">
+              <span className="artist-hub1-text28">
                 <span className="">Submit</span>
                 <br className=""></br>
               </span>

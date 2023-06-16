@@ -252,6 +252,10 @@
   background-color: #292e33;
   background-image: linear-gradient(0deg, rgb(41, 46, 51) 3.00%,rgb(41, 46, 51) 99.00%);
 }
+.artist-hub1-text23 {
+  width: 100%;
+  text-align: center;
+}
 .artist-hub1-submit {
   display: flex;
   padding: 0px;
@@ -294,6 +298,10 @@
   box-shadow: 0px 0px 10px 0px #00ff29;
   background-color: #292e33;
   background-image: linear-gradient(0deg, rgb(41, 46, 51) 3.00%,rgb(41, 46, 51) 99.00%);
+}
+.artist-hub1-text28 {
+  width: 100%;
+  text-align: center;
 }
 .artist-hub1-artist-hub-mobile {
   width: 100%;
