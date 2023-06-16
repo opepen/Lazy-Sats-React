@@ -1,0 +1,89 @@
+.component1-container {
+  width: 800px;
+  display: flex;
+  position: relative;
+  box-shadow: 5px 5px 10px 0px #000000;
+  align-items: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-radius: 10px;
+  padding-right: 20px;
+  flex-direction: column;
+  padding-bottom: 20px;
+  justify-content: center;
+  background-color: #ff7500;
+}
+.component1-text {
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  text-align: center;
+  background-image: linear-gradient(rgb(0, 0, 0) 1%, rgb(91, 91, 91) 98%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.component1-container1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.component1-text01 {
+  color: #ffffff;
+  width: 100%;
+  margin-top: 40px;
+  text-align: center;
+}
+.component1-link {
+  color: rgb(255, 117, 0);
+  box-shadow: rgb(0, 0, 0) 2px 2px 5px 0px;
+  margin-top: 20px;
+  transition: 0.3s;
+  border-width: 0px;
+  border-radius: 10px;
+  margin-bottom: 60px;
+  text-decoration: none;
+  background-color: rgb(41, 46, 51);
+}
+.component1-link:hover {
+  color: rgb(41, 46, 51);
+  box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+  background-color: #ff7500;
+}
+.component1-text07 {
+  color: rgb(255, 255, 255);
+  width: 100%;
+  text-align: center;
+}
+.component1-link1 {
+  color: rgb(255, 117, 0);
+  box-shadow: rgb(0, 0, 0) 2px 2px 5px 0px;
+  margin-top: 20px;
+  transition: 0.3s;
+  border-width: 0px;
+  border-radius: 10px;
+  margin-bottom: 60px;
+  text-decoration: none;
+  background-color: rgb(41, 46, 51);
+}
+.component1-link1:hover {
+  color: rgb(41, 46, 51);
+  box-shadow: 0px 0px 10px 0px rgb(0, 0, 0);
+  background-color: #ff7500;
+}
+@media(max-width: 991px) {
+  .component1-container {
+    width: 100%;
+  }
+  .component1-text01 {
+    color: #ffffff;
+  }
+}
+@media(max-width: 767px) {
+  .component1-container {
+    height: 100%;
+  }
+  .component1-text {
+    top: 61px;
+  }
+}

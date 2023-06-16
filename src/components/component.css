@@ -1,0 +1,10 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-image {
+  width: 40%;
+  box-shadow: 5px 5px 10px 0px #000000;
+  object-fit: cover;
+  border-radius: 10px;
+}

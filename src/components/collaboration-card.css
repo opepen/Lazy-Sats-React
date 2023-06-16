@@ -1,0 +1,97 @@
+.collaboration-card-blog-post-card {
+  width: 100%;
+  display: flex;
+  padding: 40px;
+  max-width: 1400px;
+  box-shadow: 0px 0px 5px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  align-items: stretch;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-radius: 20px;
+  padding-right: 20px;
+  flex-direction: row;
+  padding-bottom: 20px;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.42);
+}
+.collaboration-card-blog-post-card:hover {
+  transform: scale(1.02);
+}
+.collaboration-card-image {
+  width: 350px;
+  height: 350px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+.collaboration-card-container {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 32px;
+  padding-left: 32px;
+  padding-right: 32px;
+  flex-direction: column;
+  padding-bottom: 32px;
+  justify-content: space-between;
+}
+.collaboration-card-text {
+  color: #ffffff;
+  margin-bottom: 32px;
+}
+.collaboration-card-text1 {
+  color: #ffffff;
+  font-size: 1.25rem;
+  margin-bottom: 32px;
+}
+.collaboration-card-link {
+  color: white;
+  box-shadow: 0px 0px 5px 0px #000000;
+  transition: 0.3s;
+  border-width: 0px;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: #ff7500;
+}
+.collaboration-card-link:hover {
+  color: #ff7500;
+  box-shadow: 0px 0px 10px 0px #ff7500;
+  background-color: #292e33;
+}
+
+.collaboration-card-root-class-name1 {
+  margin-bottom: 50px;
+}
+.collaboration-card-root-class-name2 {
+  margin-bottom: 50px;
+}
+@media(max-width: 991px) {
+  .collaboration-card-blog-post-card {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+}
+@media(max-width: 767px) {
+  .collaboration-card-blog-post-card {
+    flex-direction: column;
+  }
+  .collaboration-card-image {
+    width: 100%;
+  }
+  .collaboration-card-container {
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+  }
+  .collaboration-card-text {
+    margin-bottom: 15px;
+  }
+  .collaboration-card-text1 {
+    font-size: 14px;
+  }
+  .collaboration-card-link {
+    align-self: center;
+  }
+}
