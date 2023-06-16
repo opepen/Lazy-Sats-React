@@ -19,11 +19,11 @@ const Home1 = (props) => {
           content="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/6e2973bd-71c7-4bac-9808-a3bbed23950a?org_if_sml=1"
         />
       </Helmet>
-      <div className="home1-container1">
+      <div className="home1-container01">
         <header data-thq="thq-navbar" className="home1-navbar-interactive">
           <img
             alt="logo"
-            src="/Lazy Sats/lazysats_logo_white-200h.png"
+            src="/Lazy Sats/lazysats_logo_white-1000h.png"
             className="home1-logo"
           />
           <div
@@ -184,7 +184,7 @@ const Home1 = (props) => {
               data-thq="thq-mobile-menu-nav"
               className="home1-nav1"
             >
-              <div className="home1-container2">
+              <div className="home1-container02">
                 <img
                   alt="image"
                   src="https://presentation-website-assets.teleporthq.io/logos/logo.png"
@@ -207,7 +207,7 @@ const Home1 = (props) => {
                 <span className="home1-text14">Team</span>
                 <span className="home1-text15">Blog</span>
               </nav>
-              <div className="home1-container3">
+              <div className="home1-container03">
                 <button className="home1-login button">Login</button>
                 <button className="button">Register</button>
               </div>
@@ -235,18 +235,27 @@ const Home1 = (props) => {
           </div>
         </header>
       </div>
+      <div className="home1-intro">
+        <div className="home1-container04">
+          <img
+            alt="image"
+            src="/Lazy Sats/lazysats_logo_white-1000h.png"
+            className="home1-image1"
+          />
+        </div>
+      </div>
       <div className="home1-hero">
         <div className="home1-hero1">
-          <div className="home1-container4">
+          <div className="home1-container05">
             <div className="home1-blog-post-card">
               <img
                 alt="image"
                 src="/Lazy Sats/collage%202-1400w.png"
                 loading="eager"
                 image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
-                className="home1-image1"
+                className="home1-image2"
               />
-              <div className="home1-container5">
+              <div className="home1-container06">
                 <span className="home1-text16">
                   <span>
                     Lazy Sats is a collection of 10.000 distinctive and
@@ -264,8 +273,8 @@ const Home1 = (props) => {
                     of these funny little pixel characters today.
                   </span>
                 </span>
-                <div className="home1-container6">
-                  <div className="home1-container7">
+                <div className="home1-container07">
+                  <div className="home1-container08">
                     <a
                       href="https://discord.gg/EaNcmJky8H"
                       target="_blank"
@@ -283,7 +292,7 @@ const Home1 = (props) => {
       </div>
       <div className="home1-information">
         <div className="home1-information1">
-          <div className="home1-container8">
+          <div className="home1-container09">
             <CollaborationCard
               title="Collaborations"
               button="Request Collaboration"
