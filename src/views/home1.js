@@ -331,9 +331,124 @@ const Home1 = (props) => {
           </div>
         </div>
       </div>
+      <div className="home1-artist-hub">
+        <div className="home1-container10">
+          <div id="artisthub" className="home1-container11">
+            <div className="home1-container12">
+              <h1 className="home1-text25">Unleash your inner artist</h1>
+              <span className="home1-text26">
+                We enable every member of the community to participate in the
+                collection by giving them the opportunity to create and
+                contribute their own unique traits while earning royalties. Feel
+                free to download our assets and unleash your creativity.
+              </span>
+            </div>
+            <div className="home1-container13">
+              <div className="home1-artist-hub1">
+                <h1 className="home1-text27">Artist HUB</h1>
+                <span className="home1-text28">
+                  <span>
+                    Welcome to the Lazy Sats Artist HUB, a haven for unleashing
+                    your boundless imagination and embracing your inner artist.
+                    Here, you have the freedom to create distinctive traits for
+                    the Lazy Sats collection, with each selected trait offering
+                    the opportunity to earn royalties for its creator.
+                  </span>
+                  <br></br>
+                  <br></br>
+                  <span>
+                    Craft your own traits in accordance with our guidelines,
+                    which you can find below. Once you&apos;ve perfected your
+                    masterpiece, simply submit it through the Artist HUB.
+                    Remember, there&apos;s no limit to the number of traits you
+                    can submit—let your creativity flow without constraint.
+                  </span>
+                </span>
+              </div>
+              <div className="home1-container14">
+                <div className="home1-download">
+                  <h1 className="home1-text33">Download</h1>
+                  <span className="home1-text34">
+                    Download the Lazy Sats demo canvas below and start creating
+                  </span>
+                  <a
+                    href="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1%22"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                    className="home1-link2 button"
+                  >
+                    Download demo asset
+                  </a>
+                </div>
+                <div className="home1-submit">
+                  <h1 className="home1-text35">
+                    <span>Submit</span>
+                    <br></br>
+                  </h1>
+                  <form className="home1-form">
+                    <input
+                      type="text"
+                      name="name"
+                      value="Name"
+                      required
+                      placeholder="placeholder"
+                      className="home1-textinput input"
+                    />
+                    <input
+                      type="text"
+                      name="discord"
+                      value="Discord"
+                      required
+                      placeholder="placeholder"
+                      className="home1-textinput1 input"
+                    />
+                    <input
+                      type="text"
+                      name="twitter"
+                      value="Twitter"
+                      placeholder="placeholder"
+                      className="home1-textinput2 input"
+                    />
+                    <input
+                      type="email"
+                      name="mail"
+                      value="E-Mail"
+                      required
+                      placeholder="placeholder"
+                      className="home1-textinput3 input"
+                    />
+                    <input
+                      type="text"
+                      name="wallet"
+                      value="Bitcoin Wallet"
+                      required
+                      placeholder="placeholder"
+                      className="home1-textinput4 input"
+                    />
+                    <input
+                      type="file"
+                      name="wallet"
+                      value="Bitcoin Wallet"
+                      required
+                      placeholder="placeholder"
+                      className="home1-textinput5 input"
+                    />
+                    <button type="submit" className="home1-button button">
+                      Submit
+                    </button>
+                  </form>
+                  <span className="home1-text38">
+                    Submissions are currently closed. Opening soon!
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="home1-hero">
         <div className="home1-hero1">
-          <div className="home1-container10">
+          <div className="home1-container15">
             <div className="home1-blog-post-card">
               <img
                 alt="image"
@@ -342,8 +457,8 @@ const Home1 = (props) => {
                 image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
                 className="home1-image7"
               />
-              <div className="home1-container11">
-                <span className="home1-text25">
+              <div className="home1-container16">
+                <span className="home1-text39">
                   <span>
                     Lazy Sats is a collection of 10.000 distinctive and
                     immutable pixel art characters on the Bitcoin blockchain.
@@ -360,13 +475,13 @@ const Home1 = (props) => {
                     of these funny little pixel characters today.
                   </span>
                 </span>
-                <div className="home1-container12">
-                  <div className="home1-container13">
+                <div className="home1-container17">
+                  <div className="home1-container18">
                     <a
                       href="https://discord.gg/EaNcmJky8H"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home1-link2 button"
+                      className="home1-link3 button"
                     >
                       Join the Discord
                     </a>
@@ -379,7 +494,7 @@ const Home1 = (props) => {
       </div>
       <div className="home1-information">
         <div className="home1-information1">
-          <div className="home1-container14">
+          <div className="home1-container19">
             <CollaborationCard
               title="Collaborations"
               button="Request Collaboration"
