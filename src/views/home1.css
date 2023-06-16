@@ -510,6 +510,223 @@
   width: 1200px;
   object-fit: cover;
 }
+.home1-welcome-collabs {
+  width: 100%;
+  display: flex;
+  box-shadow: 0px 0px 10px 0px #000000;
+  align-items: center;
+  flex-direction: column;
+}
+.home1-info {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #292e33;
+}
+.home1-container05 {
+  flex: 1;
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+}
+.home1-right {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-top: 100px;
+  align-items: center;
+  margin-bottom: 100px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.home1-text16 {
+  color: #ffffff;
+}
+.home1-text17 {
+  color: #ffffff;
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.home1-link {
+  color: #292e33;
+  height: 42px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 700;
+  border-width: 0px;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: #ff7500;
+}
+.home1-link:hover {
+  color: #ff7500;
+  box-shadow: 0px 0px 10px 0px #ff7500;
+  background-color: #292e33;
+}
+.home1-container06 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home1-container07 {
+  flex: 0 0 auto;
+  width: 90%;
+  height: 200px;
+  display: flex;
+  margin-top: 0px;
+  align-items: flex-start;
+  border-radius: 10px;
+  margin-bottom: 0px;
+  background-size: contain;
+  background-image: url("/Lazy Sats/collage%202-1400w.png");
+  background-repeat: repeat;
+}
+.home1-collaborate {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-top: 0px;
+  align-items: center;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #292e33;
+}
+.home1-container08 {
+  flex: 1;
+  width: 90%;
+  display: flex;
+  align-items: flex-start;
+}
+.home1-left {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  margin-top: 100px;
+  align-items: flex-start;
+  margin-bottom: 100px;
+  flex-direction: column;
+}
+.home1-text23 {
+  color: #ffffff;
+}
+.home1-text24 {
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.home1-link1 {
+  color: rgb(41, 46, 51);
+  height: 42px;
+  box-shadow: rgb(0, 0, 0) 0px 0px 5px 0px;
+  font-style: normal;
+  transition: 0.3s;
+  font-weight: 700;
+  border-width: 0px;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: rgb(255, 117, 0);
+}
+.home1-link1:hover {
+  color: #ff7500;
+  box-shadow: 0px 0px 10px 0px #ff7500;
+  background-color: #292e33;
+}
+.home1-right1 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  margin-top: 50px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.home1-container09 {
+  flex: 0 0 auto;
+  width: 90%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+  justify-content: center;
+}
+.home1-image2 {
+  width: 300px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  object-fit: cover;
+  transition: 0.3s;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 10px;
+}
+.home1-image2:hover {
+  width: 350px;
+  box-shadow: 0px 0px 10px 0px #000000;
+}
+.home1-image3 {
+  width: 300px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  object-fit: cover;
+  transition: 0.3s;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 10px;
+}
+.home1-image3:hover {
+  width: 350px;
+  box-shadow: 0px 0px 10px 0px #000000;
+}
+.home1-image4 {
+  width: 300px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  object-fit: cover;
+  transition: 0.3s;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 10px;
+}
+.home1-image4:hover {
+  width: 350px;
+  box-shadow: 0px 0px 10px 0px #000000;
+}
+.home1-image5 {
+  width: 300px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  object-fit: cover;
+  transition: 0.3s;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 10px;
+}
+.home1-image5:hover {
+  width: 350px;
+  box-shadow: 0px 0px 10px 0px #000000;
+}
+.home1-image6 {
+  width: 300px;
+  box-shadow: 0px 0px 5px 0px #000000;
+  object-fit: cover;
+  transition: 0.3s;
+  margin-left: 25px;
+  margin-right: 25px;
+  border-radius: 10px;
+}
+.home1-image6:hover {
+  width: 350px;
+  box-shadow: 0px 0px 10px 0px #000000;
+}
 .home1-hero {
   width: 100%;
   display: flex;
@@ -532,7 +749,7 @@
   justify-content: space-between;
   background-color: #292e33;
 }
-.home1-container05 {
+.home1-container10 {
   display: flex;
   align-items: center;
   margin-bottom: 0px;
@@ -553,7 +770,7 @@
   padding-bottom: 20px;
   justify-content: space-between;
 }
-.home1-image2 {
+.home1-image7 {
   width: 100%;
   height: 350px;
   align-self: center;
@@ -562,7 +779,7 @@
   flex-shrink: 0;
   border-radius: 10px;
 }
-.home1-container06 {
+.home1-container11 {
   display: flex;
   padding: 0px;
   align-items: flex-start;
@@ -573,13 +790,13 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.home1-text16 {
+.home1-text25 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
   margin-bottom: 50px;
 }
-.home1-container07 {
+.home1-container12 {
   flex: 0 0 auto;
   width: auto;
   height: auto;
@@ -588,13 +805,13 @@
   align-items: flex-start;
   justify-content: flex-start;
 }
-.home1-container08 {
+.home1-container13 {
   width: 100%;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
 }
-.home1-link {
+.home1-link2 {
   color: white;
   width: 245px;
   height: 50px;
@@ -607,7 +824,7 @@
   text-decoration: none;
   background-color: rgb(255, 117, 0);
 }
-.home1-link:hover {
+.home1-link2:hover {
   color: #ff7500;
   box-shadow: 0px 0px 10px 0px #ff7500;
   font-style: normal;
@@ -632,7 +849,7 @@
   justify-content: space-between;
   background-color: #292e33;
 }
-.home1-container09 {
+.home1-container14 {
   display: flex;
   align-items: center;
   margin-bottom: 32px;
@@ -697,16 +914,16 @@
   .home1-blog-post-card {
     flex-direction: column;
   }
-  .home1-image2 {
+  .home1-image7 {
     width: 100%;
     height: 208px;
   }
-  .home1-text16 {
+  .home1-text25 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .home1-link {
+  .home1-link2 {
     color: white;
     box-shadow: rgb(0, 0, 0) 0px 0px 5px 0px;
     text-align: center;

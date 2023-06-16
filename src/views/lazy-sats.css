@@ -543,7 +543,7 @@
   width: 1200px;
   object-fit: cover;
 }
-.lazy-sats-container04 {
+.lazy-sats-welcome-collabs {
   width: 100%;
   display: flex;
   box-shadow: 0px 0px 10px 0px #000000;
@@ -563,7 +563,7 @@
   justify-content: flex-start;
   background-color: #292e33;
 }
-.lazy-sats-container05 {
+.lazy-sats-container04 {
   flex: 1;
   width: 90%;
   display: flex;
@@ -601,14 +601,14 @@
   box-shadow: 0px 0px 10px 0px #ff7500;
   background-color: #292e33;
 }
-.lazy-sats-container06 {
+.lazy-sats-container05 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.lazy-sats-container07 {
+.lazy-sats-container06 {
   flex: 0 0 auto;
   width: 90%;
   height: 200px;
@@ -634,7 +634,7 @@
   justify-content: flex-start;
   background-color: #292e33;
 }
-.lazy-sats-container08 {
+.lazy-sats-container07 {
   flex: 1;
   width: 90%;
   display: flex;
@@ -678,7 +678,7 @@
   align-items: flex-start;
   flex-direction: column;
 }
-.lazy-sats-container09 {
+.lazy-sats-container08 {
   flex: 0 0 auto;
   width: 90%;
   height: 400px;
@@ -764,13 +764,13 @@
   flex-direction: column;
   justify-content: flex-start;
 }
-.lazy-sats-container10 {
+.lazy-sats-container09 {
   flex: 1;
   width: 90%;
   display: flex;
   align-items: flex-start;
 }
-.lazy-sats-container11 {
+.lazy-sats-container10 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -786,7 +786,7 @@
   justify-content: center;
   background-color: #292e33;
 }
-.lazy-sats-container12 {
+.lazy-sats-container11 {
   width: 100%;
   display: flex;
   align-items: center;
@@ -800,7 +800,7 @@
 .lazy-sats-text26 {
   margin-top: 20px;
 }
-.lazy-sats-container13 {
+.lazy-sats-container12 {
   width: 80%;
   display: flex;
   margin-top: 100px;
@@ -825,7 +825,7 @@
   border-radius: 10px;
   background-color: rgba(0, 0, 0, 0.1);
 }
-.lazy-sats-container14 {
+.lazy-sats-container13 {
   width: 100%;
   display: flex;
   margin-top: 50px;
@@ -1010,7 +1010,7 @@
   .lazy-sats-image1 {
     width: 400px;
   }
-  .lazy-sats-container11 {
+  .lazy-sats-container10 {
     padding-left: 30px;
     padding-right: 30px;
   }

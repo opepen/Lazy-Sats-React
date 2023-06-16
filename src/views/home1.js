@@ -244,19 +244,106 @@ const Home1 = (props) => {
           />
         </div>
       </div>
+      <div className="home1-welcome-collabs">
+        <div className="home1-info">
+          <div className="home1-container05">
+            <div className="home1-right">
+              <h1 className="home1-text16">WELCOME TO THE LAZY SIDE OF LIFE</h1>
+              <span className="home1-text17">
+                <span>
+                  Lazy Sats is a collection of 10.000 distinctive and immutable
+                  pixel art characters on the Bitcoin blockchain. Each Lazy Sat
+                  carrie’s it’s own individual story, making it a one-of-a-kind
+                  creation. The project grants you complete intellectual
+                  property rights to the Lazy Sats you own, enabling you to
+                  explore endless possibilities and unleash your creative
+                  imagination.
+                </span>
+                <br></br>
+                <br></br>
+                <span>
+                  Join the Lazy Sats community now and embrace the uniqueness of
+                  these funny little pixel characters today.
+                </span>
+                <br></br>
+              </span>
+              <a
+                href="https://discord.gg/EaNcmJky8H"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home1-link button"
+              >
+                Join the community
+              </a>
+            </div>
+          </div>
+          <div className="home1-container06">
+            <div className="home1-container07"></div>
+          </div>
+        </div>
+        <div className="home1-collaborate">
+          <div className="home1-container08">
+            <div className="home1-left">
+              <h1 className="home1-text23">Collaborations</h1>
+              <span className="home1-text24">
+                Lazy Sats is allocating Whitelist and Allowlist spots to
+                communities all around the globe. If you are interested in a
+                collaboration with Lazy Sats, head over to our Discord and open
+                a support ticket in the #support channel.
+              </span>
+              <a
+                href="https://discord.gg/EaNcmJky8H"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home1-link1 button"
+              >
+                Request a collaboration
+              </a>
+            </div>
+            <div className="home1-right1"></div>
+          </div>
+          <div className="home1-container09">
+            <img
+              alt="image"
+              src="/Lazy Sats/brain-400h.png"
+              className="home1-image2"
+            />
+            <img
+              alt="image"
+              src="/Lazy Sats/bk%20employee%20paper%20bag-1500w.png"
+              className="home1-image3"
+            />
+            <img
+              alt="image"
+              src="/Lazy Sats/rug%20pull%20police-400h.png"
+              className="home1-image4"
+            />
+            <img
+              alt="image"
+              src="/Lazy Sats/skelly%20in%20the%20sun-400h.png"
+              className="home1-image5"
+            />
+            <img
+              alt="image"
+              src="/Lazy Sats/jaredfromsubway-1500w.png"
+              className="home1-image6"
+            />
+          </div>
+        </div>
+      </div>
       <div className="home1-hero">
         <div className="home1-hero1">
-          <div className="home1-container05">
+          <div className="home1-container10">
             <div className="home1-blog-post-card">
               <img
                 alt="image"
                 src="/Lazy Sats/collage%202-1400w.png"
                 loading="eager"
                 image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
-                className="home1-image2"
+                className="home1-image7"
               />
-              <div className="home1-container06">
-                <span className="home1-text16">
+              <div className="home1-container11">
+                <span className="home1-text25">
                   <span>
                     Lazy Sats is a collection of 10.000 distinctive and
                     immutable pixel art characters on the Bitcoin blockchain.
@@ -273,13 +360,13 @@ const Home1 = (props) => {
                     of these funny little pixel characters today.
                   </span>
                 </span>
-                <div className="home1-container07">
-                  <div className="home1-container08">
+                <div className="home1-container12">
+                  <div className="home1-container13">
                     <a
                       href="https://discord.gg/EaNcmJky8H"
                       target="_blank"
                       rel="noreferrer noopener"
-                      className="home1-link button"
+                      className="home1-link2 button"
                     >
                       Join the Discord
                     </a>
@@ -292,7 +379,7 @@ const Home1 = (props) => {
       </div>
       <div className="home1-information">
         <div className="home1-information1">
-          <div className="home1-container09">
+          <div className="home1-container14">
             <CollaborationCard
               title="Collaborations"
               button="Request Collaboration"

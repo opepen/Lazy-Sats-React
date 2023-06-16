@@ -273,9 +273,9 @@ const LazySats = (props) => {
             />
           </div>
         </div>
-        <div className="lazy-sats-container04">
+        <div className="lazy-sats-welcome-collabs">
           <div className="lazy-sats-info">
-            <div className="lazy-sats-container05">
+            <div className="lazy-sats-container04">
               <div className="lazy-sats-right">
                 <h1>WELCOME TO THE LAZY SIDE OF LIFE</h1>
                 <span className="lazy-sats-text17">
@@ -306,12 +306,12 @@ const LazySats = (props) => {
                 </a>
               </div>
             </div>
-            <div className="lazy-sats-container06">
-              <div className="lazy-sats-container07"></div>
+            <div className="lazy-sats-container05">
+              <div className="lazy-sats-container06"></div>
             </div>
           </div>
           <div className="lazy-sats-collaborate">
-            <div className="lazy-sats-container08">
+            <div className="lazy-sats-container07">
               <div className="lazy-sats-left">
                 <h1>Collaborations</h1>
                 <span className="lazy-sats-text24">
@@ -331,7 +331,7 @@ const LazySats = (props) => {
               </div>
               <div className="lazy-sats-right1"></div>
             </div>
-            <div className="lazy-sats-container09">
+            <div className="lazy-sats-container08">
               <img
                 alt="image"
                 src="/Lazy Sats/brain-400h.png"
@@ -361,9 +361,9 @@ const LazySats = (props) => {
           </div>
         </div>
         <div className="lazy-sats-artist-hub">
-          <div className="lazy-sats-container10">
-            <div id="artisthub" className="lazy-sats-container11">
-              <div className="lazy-sats-container12">
+          <div className="lazy-sats-container09">
+            <div id="artisthub" className="lazy-sats-container10">
+              <div className="lazy-sats-container11">
                 <h1 className="lazy-sats-text25">Unleash your inner artist</h1>
                 <span className="lazy-sats-text26">
                   We enable every member of the community to participate in the
@@ -372,7 +372,7 @@ const LazySats = (props) => {
                   Feel free to download our assets and unleash your creativity.
                 </span>
               </div>
-              <div className="lazy-sats-container13">
+              <div className="lazy-sats-container12">
                 <div className="lazy-sats-artist-hub1">
                   <h1 className="lazy-sats-text27">Artist HUB</h1>
                   <span className="lazy-sats-text28">
@@ -396,7 +396,7 @@ const LazySats = (props) => {
                     </span>
                   </span>
                 </div>
-                <div className="lazy-sats-container14">
+                <div className="lazy-sats-container13">
                   <div className="lazy-sats-download">
                     <h1 className="lazy-sats-text33">Download</h1>
                     <span className="lazy-sats-text34">
