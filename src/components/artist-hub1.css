@@ -586,6 +586,8 @@
   background-image: linear-gradient(0deg, rgb(41, 46, 51) 3.00%,rgb(41, 46, 51) 99.00%);
 }
 
+
+
 @media(max-width: 991px) {
   .artist-hub1-artist-hub-desktop {
     flex-direction: column;

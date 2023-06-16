@@ -66,6 +66,12 @@
 .collaboration-card-root-class-name2 {
   margin-bottom: 50px;
 }
+.collaboration-card-root-class-name3 {
+  margin-bottom: 50px;
+}
+.collaboration-card-root-class-name4 {
+  margin-bottom: 50px;
+}
 @media(max-width: 991px) {
   .collaboration-card-blog-post-card {
     flex-direction: row;

@@ -87,6 +87,14 @@
   border-radius: 4px;
   background-color: var(--dl-color-gray-white);
 }
+.button_grey_1 {
+  color: #ff7500;
+  box-shadow: 0px 0px 5px 0px #000000;
+  font-family: Roboto;
+  border-width: 0px;
+  border-radius: 10px;
+  background-color: #292e33;
+}
 .Small {
   font-size: 0.875rem;
   font-family: Open Sans;
@@ -168,3 +176,5 @@
   letter-spacing: -0.025rem;
   text-transform: uppercase;
 }
+
+

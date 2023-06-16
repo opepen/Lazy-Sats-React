@@ -63,6 +63,12 @@
 .artist-card-root-class-name1 {
   margin-top: 20px;
 }
+.artist-card-root-class-name2 {
+  margin-top: 20px;
+}
+.artist-card-root-class-name3 {
+  margin-top: 20px;
+}
 @media(max-width: 991px) {
   .artist-card-blog-post-card {
     flex-direction: row;
@@ -95,6 +101,12 @@
     margin-top: 50px;
   }
   .artist-card-root-class-name1 {
+    margin-top: 50px;
+  }
+  .artist-card-root-class-name2 {
+    margin-top: 50px;
+  }
+  .artist-card-root-class-name3 {
     margin-top: 50px;
   }
 }
