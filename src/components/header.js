@@ -10,7 +10,7 @@ const Header = (props) => {
     <div data-role="Header" className={`header-header ${props.rootClassName} `}>
       <nav className="header-nav">
         <div className="header-container">
-          <Link to="/" className="header-navlink">
+          <Link to="/home-v0" className="header-navlink">
             <img
               alt={props.image_alt}
               src={props.image_src}
