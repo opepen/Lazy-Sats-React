@@ -12,13 +12,6 @@ const Submit = (props) => {
         <title>Lazy Sats - Artist HUB</title>
         <meta property="og:title" content="Lazy Sats - Artist HUB" />
       </Helmet>
-      <div data-role="Header" className="submit-header">
-        <nav className="submit-nav">
-          <Link to="/" name="submit-trait" className="submit-navlink button">
-            Return home
-          </Link>
-        </nav>
-      </div>
       <div className="submit-hero">
         <div className="submit-container1">
           <div className="submit-submit-desktop">
@@ -103,6 +96,13 @@ const Submit = (props) => {
               <span className="submit-text06">
                 Submissions are currently closed. Opening soon!
               </span>
+              <Link
+                to="/"
+                name="submit-trait"
+                className="submit-navlink button"
+              >
+                Return home
+              </Link>
             </div>
           </div>
           <div className="submit-submit-mobile">
@@ -191,6 +191,9 @@ const Submit = (props) => {
                 </span>
               </form>
             </div>
+            <Link to="/" name="submit-trait" className="submit-navlink1 button">
+              Return home
+            </Link>
           </div>
         </div>
       </div>
