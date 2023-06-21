@@ -108,16 +108,17 @@
   display: inline-flex;
   transition: 0.3s;
   align-items: center;
-  padding-top: var(--dl-space-space-halfunit);
-  padding-left: var(--dl-space-space-unit);
-  border-radius: 10px;
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
 }
 .home-dropdown-toggle1:hover {
   fill: #fff;
   color: #fff;
-  background-color: #595959;
+  border-radius: 10px;
+  background-color: #ff7500;
+  border-top-left-radius: 1;
+  border-top-right-radius: 1;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 .home-text03 {
   color: rgb(255, 255, 255);
@@ -126,8 +127,10 @@
   display: flex;
   font-size: 14px;
   font-style: normal;
+  margin-top: 5px;
   font-family: Roboto;
   font-weight: 400;
+  margin-bottom: 5px;
   justify-content: center;
 }
 .home-discord {
@@ -143,16 +146,13 @@
   display: inline-flex;
   transition: 0.3s;
   align-items: center;
-  padding-top: var(--dl-space-space-halfunit);
-  padding-left: var(--dl-space-space-unit);
-  border-radius: 10px;
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-halfunit);
+  border-radius: 0px;
+  justify-content: center;
 }
 .home-dropdown-toggle2:hover {
   fill: #fff;
   color: #fff;
-  background-color: #595959;
+  background-color: #ff7500;
 }
 .home-text04 {
   color: rgb(255, 255, 255);
@@ -161,8 +161,10 @@
   display: flex;
   font-size: 14px;
   font-style: normal;
+  margin-top: 5px;
   font-family: Roboto;
   font-weight: 400;
+  margin-bottom: 5px;
   justify-content: center;
 }
 .home-subber {
@@ -178,16 +180,18 @@
   display: inline-flex;
   transition: 0.3s;
   align-items: center;
-  padding-top: var(--dl-space-space-halfunit);
-  padding-left: var(--dl-space-space-unit);
-  border-radius: 10px;
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-halfunit);
+  border-radius: 0px;
+  justify-content: center;
 }
 .home-dropdown-toggle3:hover {
   fill: #fff;
   color: #fff;
-  background-color: #595959;
+  border-radius: 10px;
+  background-color: #ff7500;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-left-radius: 1;
+  border-bottom-right-radius: 1;
 }
 .home-text05 {
   color: rgb(255, 255, 255);
@@ -196,8 +200,11 @@
   display: flex;
   font-size: 14px;
   font-style: normal;
+  margin-top: 5px;
+  align-items: center;
   font-family: Roboto;
   font-weight: 400;
+  margin-bottom: 5px;
   justify-content: center;
 }
 .home-creators {
@@ -269,16 +276,13 @@
   display: inline-flex;
   transition: 0.3s;
   align-items: center;
-  padding-top: var(--dl-space-space-halfunit);
-  padding-left: var(--dl-space-space-unit);
   border-radius: 10px;
-  padding-right: var(--dl-space-space-unit);
-  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
 }
 .home-dropdown-toggle5:hover {
   fill: #fff;
   color: #fff;
-  background-color: #595959;
+  background-color: #ff7500;
 }
 .home-text07 {
   color: rgb(255, 255, 255);
@@ -287,8 +291,10 @@
   display: flex;
   font-size: 14px;
   font-style: normal;
+  margin-top: 5px;
   font-family: Roboto;
   font-weight: 400;
+  margin-bottom: 5px;
   justify-content: center;
 }
 .home-btn-group {
