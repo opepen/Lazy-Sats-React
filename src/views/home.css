@@ -96,6 +96,7 @@
   list-style-position: inside;
 }
 .home-twitter {
+  width: 100%;
   cursor: pointer;
   display: inline-block;
   position: relative;
@@ -134,6 +135,7 @@
   justify-content: center;
 }
 .home-discord {
+  width: 100%;
   cursor: pointer;
   display: inline-block;
   position: relative;
@@ -168,6 +170,7 @@
   justify-content: center;
 }
 .home-subber {
+  width: 100%;
   cursor: pointer;
   display: inline-block;
   position: relative;
@@ -264,6 +267,7 @@
   list-style-position: inside;
 }
 .home-artist-hub {
+  width: 100%;
   cursor: pointer;
   display: inline-block;
   position: relative;
