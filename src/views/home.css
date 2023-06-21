@@ -297,17 +297,19 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.home-register {
+.home-discord1 {
   width: 200px;
+  text-align: center;
   transition: 0.3s;
   text-decoration: none;
 }
-.home-register:hover {
+.home-discord1:hover {
   color: #292E33;
   box-shadow: 0px 0px 10px 0px #000000;
   background-color: #ff7500;
 }
 .home-text08 {
+  width: 100%;
   font-style: normal;
   font-family: Roboto;
   font-weight: 700;

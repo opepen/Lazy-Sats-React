@@ -147,7 +147,7 @@ const Home = (props) => {
               href="https://discord.gg/EaNcmJky8H"
               target="_blank"
               rel="noreferrer noopener"
-              className="home-register button button_grey_1"
+              className="home-discord1 button button_grey_1"
             >
               <span className="home-text08">
                 <span>Discord</span>
