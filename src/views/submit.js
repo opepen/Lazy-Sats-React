@@ -1,8 +1,8 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 import { Helmet } from 'react-helmet'
 
-import Header from '../components/header'
 import './submit.css'
 
 const Submit = (props) => {
@@ -12,7 +12,13 @@ const Submit = (props) => {
         <title>Lazy Sats - Artist HUB</title>
         <meta property="og:title" content="Lazy Sats - Artist HUB" />
       </Helmet>
-      <Header></Header>
+      <div data-role="Header" className="submit-header">
+        <nav className="submit-nav">
+          <Link to="/" name="submit-trait" className="submit-navlink button">
+            Return home
+          </Link>
+        </nav>
+      </div>
       <div className="submit-hero">
         <div className="submit-container1">
           <div className="submit-submit-desktop">
@@ -180,6 +186,9 @@ const Submit = (props) => {
                 >
                   Submit
                 </button>
+                <span className="submit-text13">
+                  Submissions are currently closed. Opening soon!
+                </span>
               </form>
             </div>
           </div>
