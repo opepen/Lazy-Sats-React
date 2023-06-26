@@ -42,9 +42,6 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.header-navlink {
-  display: contents;
-}
 .header-image {
   width: 200px;
   object-fit: cover;

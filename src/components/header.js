@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 import PropTypes from 'prop-types'
 
@@ -10,13 +9,11 @@ const Header = (props) => {
     <div data-role="Header" className={`header-header ${props.rootClassName} `}>
       <nav className="header-nav">
         <div className="header-container">
-          <Link to="/home-v0" className="header-navlink">
-            <img
-              alt={props.image_alt}
-              src={props.image_src}
-              className="header-image"
-            />
-          </Link>
+          <img
+            alt={props.image_alt}
+            src={props.image_src}
+            className="header-image"
+          />
           <div className="header-social-bar">
             <a
               href="https://twitter.com/LazySats"

@@ -5,9 +5,8 @@ import { BrowserRouter as Router, Route } from 'react-router-dom'
 import './style.css'
 import WalletChecker from './views/wallet-checker'
 import LazySats from './views/lazy-sats'
-import Submit from './views/submit'
+import PixilartTutorial from './views/pixilart-tutorial'
 import Home from './views/home'
-import HomeV0 from './views/home-v0'
 
 const App = () => {
   return (
@@ -15,9 +14,8 @@ const App = () => {
       <div>
         <Route component={WalletChecker} exact path="/wallet-checker" />
         <Route component={LazySats} exact path="/lazy-sats" />
-        <Route component={Submit} exact path="/submit" />
+        <Route component={PixilartTutorial} exact path="/pixilart-tutorial" />
         <Route component={Home} exact path="/" />
-        <Route component={HomeV0} exact path="/home-v0" />
       </div>
     </Router>
   )

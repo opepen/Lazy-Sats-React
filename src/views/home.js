@@ -221,7 +221,7 @@ const Home = (props) => {
               <h1 className="home-text11">WELCOME TO THE LAZY SIDE OF LIFE</h1>
               <span className="home-text12">
                 <span>
-                  Lazy Sats is a collection of 10.000 distinctive and immutable
+                  Lazy Sats is a collection of 3.333 distinctive and immutable
                   pixel art characters on the Bitcoin blockchain. Each Lazy Sat
                   carrie’s it’s own individual story, making it a one-of-a-kind
                   creation. The project grants you complete intellectual
