@@ -97,7 +97,7 @@ const ArtistHUB1 = (props) => {
             <span className="artist-hub1-text22">{props.text}</span>
             <a
               href={props.link_button}
-              data-download-url='https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1"'
+              data-download-url="/demo_canvas.png"
               target="_blank"
               rel="noreferrer noopener"
               className="artist-hub1-link button"
@@ -117,7 +117,7 @@ const ArtistHUB1 = (props) => {
             <div className="artist-hub1-container07">
               <a
                 href="https://www.pixilart.com/draw?ref=home-page"
-                data-download-url='https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1"'
+                data-download-url="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="artist-hub1-link1 button"
@@ -240,7 +240,7 @@ const ArtistHUB1 = (props) => {
             <span className="artist-hub1-text57">{props.text2}</span>
             <a
               href={props.link_button1}
-              data-download-url='https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1"'
+              data-download-url="/demo_canvas.png"
               target="_blank"
               rel="noreferrer noopener"
               className="artist-hub1-link3 button"
@@ -274,7 +274,7 @@ const ArtistHUB1 = (props) => {
             <span className="artist-hub1-text68">{props.text3}</span>
             <a
               href="https://discord.gg/EaNcmJky8H"
-              data-download-url='https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1"'
+              data-download-url="https://play.teleporthq.io/static/svg/placeholders/no-image.svg"
               target="_blank"
               rel="noreferrer noopener"
               className="artist-hub1-link5 button"
@@ -312,7 +312,8 @@ ArtistHUB1.defaultProps = {
   Header_Image_src1: '/Lazy Sats/collage%202-1400w.png',
   heading2: '1. Download',
   heading3: '3. Submit',
-  link_button: '/Lazy Sats/demo_canvas-1400w.png',
+  link_button:
+    'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1"',
   image_src1: '/Lazy Sats/wrong_2-300w.png',
   rootClassName: '',
   heading211: '2. Create',
@@ -332,7 +333,8 @@ ArtistHUB1.defaultProps = {
   heading8: 'Touching the border',
   image_alt4: 'image',
   heading12: 'Missing black border',
-  link_button1: '/Lazy Sats/demo_canvas-1400w.png',
+  link_button1:
+    'https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c670fb2c-c640-4378-b94c-f00b95a2fad9?org_if_sml=1"',
   image_alt3: 'image',
   image_src3: '/Lazy Sats/wrong_1-300w.png',
   image_src5: '/Lazy Sats/24x24-300w.png',
