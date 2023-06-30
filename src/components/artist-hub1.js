@@ -96,8 +96,7 @@ const ArtistHUB1 = (props) => {
             <h1 className="artist-hub1-text21">{props.heading2}</h1>
             <span className="artist-hub1-text22">{props.text}</span>
             <a
-              href={props.link_button}
-              data-download-url="/demo_canvas.png"
+              href="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c45fd59e-cb66-4d81-a0a3-c64d7c3fe52a?org_if_sml=1"
               target="_blank"
               rel="noreferrer noopener"
               className="artist-hub1-link button"
@@ -239,7 +238,7 @@ const ArtistHUB1 = (props) => {
             <h1 className="artist-hub1-heading">{props.heading6}</h1>
             <span className="artist-hub1-text57">{props.text2}</span>
             <a
-              href={props.link_button1}
+              href="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/ed91f2ff-cc9d-4b39-b25f-f03ec37429bb/c45fd59e-cb66-4d81-a0a3-c64d7c3fe52a?org_if_sml=1"
               data-download-url="/demo_canvas.png"
               target="_blank"
               rel="noreferrer noopener"
