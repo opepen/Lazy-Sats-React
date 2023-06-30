@@ -279,13 +279,14 @@
   margin-right: 0px;
   margin-bottom: 0px;
 }
-.artist-hub1-text28 {
+.artist-hub1-navlink {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
   margin-left: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
+  text-decoration: underline none;
 }
 .artist-hub1-container07 {
   width: 100%;
@@ -314,7 +315,7 @@
   background-color: #292e33;
   background-image: linear-gradient(0deg, rgb(41, 46, 51) 3.00%,rgb(41, 46, 51) 99.00%);
 }
-.artist-hub1-text29 {
+.artist-hub1-text28 {
   width: 100%;
   text-align: center;
 }
@@ -330,10 +331,10 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.artist-hub1-text32 {
+.artist-hub1-text31 {
   color: white;
 }
-.artist-hub1-text33 {
+.artist-hub1-text32 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -361,7 +362,7 @@
   background-color: #292e33;
   background-image: linear-gradient(0deg, rgb(41, 46, 51) 3.00%,rgb(41, 46, 51) 99.00%);
 }
-.artist-hub1-text34 {
+.artist-hub1-text33 {
   width: 100%;
   text-align: center;
 }
@@ -400,10 +401,10 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.artist-hub1-text37 {
+.artist-hub1-text36 {
   color: white;
 }
-.artist-hub1-text38 {
+.artist-hub1-text37 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -423,7 +424,7 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.artist-hub1-text43 {
+.artist-hub1-text42 {
   color: white;
 }
 .artist-hub1-touching-border1 {
@@ -460,11 +461,11 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.artist-hub1-text44 {
+.artist-hub1-text43 {
   color: #ffffff;
   font-size: 25px;
 }
-.artist-hub1-text45 {
+.artist-hub1-text44 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 20px;
@@ -505,11 +506,11 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.artist-hub1-text49 {
+.artist-hub1-text48 {
   color: rgb(255, 255, 255);
   font-size: 25px;
 }
-.artist-hub1-text50 {
+.artist-hub1-text49 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 20px;
@@ -550,11 +551,11 @@
   flex-direction: column;
   justify-content: space-between;
 }
-.artist-hub1-text54 {
+.artist-hub1-text53 {
   color: rgb(255, 255, 255);
   font-size: 25px;
 }
-.artist-hub1-text55 {
+.artist-hub1-text54 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 20px;
@@ -576,7 +577,7 @@
 .artist-hub1-heading {
   color: white;
 }
-.artist-hub1-text58 {
+.artist-hub1-text57 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -616,10 +617,10 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.artist-hub1-text62 {
+.artist-hub1-text61 {
   color: white;
 }
-.artist-hub1-text63 {
+.artist-hub1-text62 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -627,7 +628,7 @@
   margin-right: 0px;
   margin-bottom: 0px;
 }
-.artist-hub1-text64 {
+.artist-hub1-text63 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -662,7 +663,7 @@
   background-color: #292e33;
   background-image: linear-gradient(0deg, rgb(41, 46, 51) 3.00%,rgb(41, 46, 51) 99.00%);
 }
-.artist-hub1-text65 {
+.artist-hub1-text64 {
   width: 100%;
   text-align: center;
 }
@@ -678,10 +679,10 @@
   padding-bottom: 32px;
   justify-content: space-between;
 }
-.artist-hub1-text68 {
+.artist-hub1-text67 {
   color: white;
 }
-.artist-hub1-text69 {
+.artist-hub1-text68 {
   color: rgb(255, 255, 255);
   font-size: 1.25rem;
   margin-top: 50px;
@@ -801,7 +802,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .artist-hub1-text28 {
+  .artist-hub1-navlink {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -809,7 +810,7 @@
   .artist-hub1-link1 {
     margin-top: 50px;
   }
-  .artist-hub1-text33 {
+  .artist-hub1-text32 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -825,7 +826,7 @@
     width: 100%;
     height: 208px;
   }
-  .artist-hub1-text38 {
+  .artist-hub1-text37 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -849,7 +850,7 @@
   .artist-hub1-container09 {
     margin-left: 40px;
   }
-  .artist-hub1-text45 {
+  .artist-hub1-text44 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -870,7 +871,7 @@
   .artist-hub1-container11 {
     margin-left: 40px;
   }
-  .artist-hub1-text50 {
+  .artist-hub1-text49 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -890,12 +891,12 @@
   .artist-hub1-container13 {
     margin-left: 40px;
   }
-  .artist-hub1-text55 {
+  .artist-hub1-text54 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .artist-hub1-text58 {
+  .artist-hub1-text57 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -903,12 +904,12 @@
   .artist-hub1-link3 {
     margin-top: 50px;
   }
-  .artist-hub1-text63 {
+  .artist-hub1-text62 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .artist-hub1-text64 {
+  .artist-hub1-text63 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -916,7 +917,7 @@
   .artist-hub1-link4 {
     margin-top: 50px;
   }
-  .artist-hub1-text69 {
+  .artist-hub1-text68 {
     font-size: 14px;
     margin-top: 20px;
     margin-bottom: 20px;

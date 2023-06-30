@@ -55,46 +55,72 @@ const PixilartTutorial = (props) => {
                   3. A popup should appear asking you to create a new image
                 </span>
                 <br></br>
-                <span>
-                  4. On the left side of the popup click &quot;Open Image&quot;
-                </span>
+                <span>4. Set width and height to 24</span>
                 <br></br>
-                <span>5. Choose the Demo Canvas and open it</span>
+                <span>5. Click &quot;New Drawing&quot;</span>
                 <br></br>
                 <br></br>
                 <span>
-                  You have now successfully loaded the Demo Canvas. Now
-                  let&apos;s start creating traits
+                  You have now created a new drawing. Time to load the Demo
+                  Canvas we downloaded in step 1
+                </span>
+                <br></br>
+                <br></br>
+                <span>1. Click on &quot;Setting&quot; / the gear icon</span>
+                <br></br>
+                <span>2. Under &quot;Tracing&quot; click upload image</span>
+                <br></br>
+                <span>3. CHoose the Demo Canvas</span>
+                <br></br>
+                <span>
+                  4. Make sure Tracing is enabled and is set to &quot;FIT&quot;
                 </span>
                 <br></br>
                 <br></br>
                 <span>
-                  1. Create a new layer by clicking the circle with the plus
-                  symbol in the panel on the right side
+                  You have now loaded the Demo Canvas as a background image. You
+                  can toggle in on and off by clicking the switch in the tracing
+                  options. 
                 </span>
+                <span>Now let&apos;s start creating traits</span>
                 <br></br>
-                <span>2. Start drawing your trait</span>
+                <br></br>
+                <span>1. Start drawing your trait and u</span>
+                <span>
+                  nleash your creativity.
+                  <span
+                    dangerouslySetInnerHTML={{
+                      __html: ' ',
+                    }}
+                  />
+                </span>
                 <br></br>
                 <br></br>
                 <span>
-                  Unleash your creativity and draw you trait. Once finished
-                  follow the following steps to export it
+                  Once finished follow the following steps to export it
                 </span>
                 <br></br>
-                <br></br>
-                <span>1. Go to the layers in the right panel</span>
                 <br></br>
                 <span>
-                  2. Click on the Eye symbol of the Demo Canvas to hide it
+                  1. On mobile click &quot;Save Drawing&quot; and follow the
+                  steps on the screen. 
                 </span>
                 <br></br>
-                <span>3. In the top menu click &quot;File&quot;</span>
+                <span>
+                  2. In the last step you will be able to save the trait you
+                  just created to your device.
+                </span>
                 <br></br>
-                <span>4. Click &quot;Export / Download&quot;</span>
                 <br></br>
-                <span>5. Click &quot;Download .png&quot;</span>
+                <span>
+                  1. On Desktop click &quot;File&quot; and
+                  &quot;Export/Download&quot;
+                </span>
                 <br></br>
-                <span>6. Save the image file to your device</span>
+                <span>
+                  2. Click &quot;Download .png&quot; and save your creation to
+                  your device
+                </span>
                 <br></br>
                 <br></br>
                 <span>
@@ -104,6 +130,18 @@ const PixilartTutorial = (props) => {
                 <br></br>
                 <br></br>
               </span>
+              <a
+                href="https://pixilart.com/draw"
+                name="submit-trait"
+                className="pixilart-tutorial-link1 button"
+              >
+                <span>
+                  <span className="pixilart-tutorial-text53">
+                    Open Pixilart
+                  </span>
+                  <br></br>
+                </span>
+              </a>
             </div>
             <div className="pixilart-tutorial-submit">
               <Link
@@ -115,85 +153,6 @@ const PixilartTutorial = (props) => {
               </Link>
             </div>
           </div>
-          <div className="pixilart-tutorial-submit-mobile">
-            <img
-              alt="image"
-              src="/Lazy Sats/collage%202-1400w.png"
-              loading="eager"
-              image_src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDd8fHBvcnRyYWl0fGVufDB8fHx8MTYyNjM3ODk3Mg&amp;ixlib=rb-1.2.1&amp;h=1000"
-              className="pixilart-tutorial-header-image1"
-            />
-            <div className="pixilart-tutorial-artist-hub-info1">
-              <h1 className="pixilart-tutorial-text43">Pixilart tutorial</h1>
-              <span className="pixilart-tutorial-text44">
-                <span>
-                  1. Download the Demo Canvas from the Artist HUB on the main
-                  website
-                </span>
-                <br></br>
-                <span>2. Open https://www.pixilart.com/draw</span>
-                <br></br>
-                <span>
-                  3. A popup should appear asking you to create a new image
-                </span>
-                <br></br>
-                <span>
-                  4. On the left side of the popup click &quot;Open Image&quot;
-                </span>
-                <br></br>
-                <span>5. Choose the Demo Canvas and open it</span>
-                <br></br>
-                <br></br>
-                <span>
-                  You have now successfully loaded the Demo Canvas. Now
-                  let&apos;s start creating traits
-                </span>
-                <br></br>
-                <br></br>
-                <span>
-                  1. Create a new layer by clicking the circle with the plus
-                  symbol in the panel on the right side
-                </span>
-                <br></br>
-                <span>2. Start drawing your trait</span>
-                <br></br>
-                <br></br>
-                <span>
-                  Unleash your creativity and draw you trait. Once finished
-                  follow the following steps to export it
-                </span>
-                <br></br>
-                <br></br>
-                <span>1. Go to the layers in the right panel</span>
-                <br></br>
-                <span>
-                  2. Click on the Eye symbol of the Demo Canvas to hide it
-                </span>
-                <br></br>
-                <span>3. In the top menu click &quot;File&quot;</span>
-                <br></br>
-                <span>4. Click &quot;Export / Download&quot;</span>
-                <br></br>
-                <span>5. Click &quot;Download .png&quot;</span>
-                <br></br>
-                <span>6. Save the image file to your device</span>
-                <br></br>
-                <br></br>
-                <span>
-                  Now it&apos;s time to submit your trait. Simply head over to
-                  our Discord, open a ticket and send us your creations.
-                </span>
-              </span>
-            </div>
-            <div className="pixilart-tutorial-submit1"></div>
-            <Link
-              to="/"
-              name="submit-trait"
-              className="pixilart-tutorial-navlink2 button"
-            >
-              Return home
-            </Link>
-          </div>
         </div>
       </div>
       <div className="pixilart-tutorial-social-bar">
@@ -201,7 +160,7 @@ const PixilartTutorial = (props) => {
           href="https://twitter.com/LazySats"
           target="_blank"
           rel="noreferrer noopener"
-          className="pixilart-tutorial-link1"
+          className="pixilart-tutorial-link2"
         >
           <svg
             viewBox="0 0 950.8571428571428 1024"
